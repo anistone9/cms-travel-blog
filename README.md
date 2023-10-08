@@ -30,7 +30,7 @@ Technologies used are as follows:
  - Sequelize
  - Express
  - Dotenv
- - Heroku for deployment
+ - Heroku for deployment, then deployed to private server
  - Nodemailer for sharing posts
  - Cloudinary for image upload
  - Milligram as the CSS framework
@@ -45,7 +45,7 @@ If a post is created, the user will be able to click the post and update or dele
 
 Finally, the user will be able to comment and like & dislike any post that isn't theirs.
 
-Deployed webpage: [Passport Adventures](http://travelblog.workbytes.net/)
+Deployed webpage: [Passport Adventures](http://anitoal.workbytes.net:3005/)
 
 ## License
 
