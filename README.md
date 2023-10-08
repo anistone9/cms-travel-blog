@@ -45,25 +45,7 @@ If a post is created, the user will be able to click the post and update or dele
 
 Finally, the user will be able to comment and like & dislike any post that isn't theirs.
 
-Deployed webpage: [Passport Adventures](https://passport-adventures.herokuapp.com/homepage)
-
-### Homepage:
-![Homepage](./Images/Homepage.jpg)
-
-### Login Page:
-![Login Page](./Images/Login%20page.jpg)
-
-### Post Page:
-![Post](./Images/Post.jpg)
-
-### Dashboard:
-![Dashboard](./Images/Dashboard.jpg)
-
-### Dashboard Post Page:
-![Dashboard Post](./Images/Dashboard%20post.jpg)
-
-### New Post Page:
-![New Post Page](./Images/New%20Post.jpg)
+Deployed webpage: [Passport Adventures](http://travelblog.workbytes.net/)
 
 ## License
 
